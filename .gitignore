@@ -1,0 +1,5 @@
+# Git忽略文件配置
+Script/
+.vscode/
+Source/
+Picture/
